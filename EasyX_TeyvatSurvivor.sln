@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyX_TeyvatSurvivor", "EasyX_TeyvatSurvivor.vcxproj", "{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Debug|x64.ActiveCfg = Debug|x64
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Debug|x64.Build.0 = Debug|x64
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Debug|x86.Build.0 = Debug|Win32
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Release|x64.ActiveCfg = Release|x64
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Release|x64.Build.0 = Release|x64
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Release|x86.ActiveCfg = Release|Win32
+		{1A2EF50E-4DA1-41B3-9CBC-2F3756D578DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C730B20B-823C-47F2-A96F-FFF313FBE06F}
+	EndGlobalSection
+EndGlobal
